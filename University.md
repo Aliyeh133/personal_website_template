@@ -1,10 +1,10 @@
 ---
 layout: single
 author_profile: true
-permalink: /friends/
-title: My friends around the world
-tags: [friends]
-modified: 4-10-2019
+permalink: /University/
+title: TABLE
+tags: [During a week]
+modified: 11-11-2024
 comments: true
 ---
 
