@@ -107,16 +107,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "alie"
+  name             : "عالیه"
   avatar           : "assets/images/Screenshot_20241023_190324_Gallery.jpg"
-  bio              : I'm the best student.
+  bio              : "hello world"
   location         : "تهران"
-  email            : sauleh@gmail.com
-  twitter: sauleh_e
+  email            : aliebanikhazaei@gmail.com
+  twitter:
   linkedin: 
   google_scholar: Q25s5KkAAAAJ
-  github: sauleh
-  instagram: saulehe
+  github: Alieyh133
+  instagram: "@lie.B"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -138,7 +138,7 @@ author:
       # url: "https://instagram.com/"
     - label: "Telegram"
       icon: "fab fa-telegram"
-      url: "http://t.me/Sauleh"
+      url: "http://t.me/liebanikhazaei_ia
 
 # Site Footer
 footer:
