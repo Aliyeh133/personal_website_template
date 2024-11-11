@@ -20,7 +20,7 @@ locale                   : "en-US"
 title                    : "Alie Banikhazaei"
 title_separator          : "-"
 name                     : "Poorang" 
-description              : "Welcome to my web site."
+description              : "welcome to my website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,9 +107,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "عالیه"
+  name             : "alie"
   avatar           : assets/images/Screenshot_20241023_190324_Gallery.jpg
-  bio              : "hello world it's me"
+  bio              : "hello world"
   location         : "تهران"
   email            : aliebanikhazaei@gmail.com
   twitter:
@@ -138,7 +138,7 @@ author:
       # url: "https://instagram.com/"
     - label: "Telegram"
       icon: "fab fa-telegram"
-      url: "http://t.me/liebanikhazaeiia
+      url: "http://t.me/liebanikhazaei_ia
 
 # Site Footer
 footer:
