@@ -3,7 +3,7 @@ layout: posts
 title: autumn
 ---
 
-# Buaty
+# Beauty
+## چه هوای خوبی
 
-![photo](assets/images/photo14839647659.jpg)
-![photo2](assets/images/photo14839647688.jpg)
+![photo](https://th.bing.com/th/id/OIP._Nvsje-9QSPstPkdLFS_igHaFI?rs=1&pid=ImgDetMain)
