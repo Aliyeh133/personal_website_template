@@ -9,7 +9,7 @@ comments: true
 ---
 
 # هم کلاسی ها
-[مبینا](http://mobina/shz.github.io)
+[مبینا](http://mobina-shz.github.io)
 مانیا
 نجمه
 ستایش
