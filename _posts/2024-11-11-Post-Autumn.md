@@ -1,9 +1,9 @@
 ---
 layout: posts
-title: پائیز
+title: پاییز
 ---
 
-# زیبایی
-## چه هوای خوبی
+# چه هوای خوبی
 
 ![photo](https://th.bing.com/th/id/OIP._Nvsje-9QSPstPkdLFS_igHaFI?rs=1&pid=ImgDetMain)
+![photo](/assets/images/9.jpg)
