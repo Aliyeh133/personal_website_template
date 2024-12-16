@@ -31,11 +31,11 @@ gallery:
     image_path: /assets/images/6.jpg
     alt: "placeholder image 6"
     title: "Yazd" 
-    - url: /assets/images/7.jpg
+  - url: /assets/images/7.jpg
     image_path: /assets/images/7.jpg
     alt: "placeholder image 7"
     title: "Yazd" 
-    - url: /assets/images/8.jpg
+  - url: /assets/images/8.jpg
     image_path: /assets/images/8.jpg
     alt: "placeholder image 8"
     title: "Yazd" 
