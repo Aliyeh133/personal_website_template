@@ -4,8 +4,6 @@ main:
     url: /University/
   - title: "Khatere"
     url: /Khatere/
-#  - title: "Courses"
-#    url: /courses/
   - title: "Friends"
     url: /friends/
   - title: "Links"
