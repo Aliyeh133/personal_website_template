@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Book
+title: کتاب
 ---
 
 # مسخ
