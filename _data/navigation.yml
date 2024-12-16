@@ -4,8 +4,6 @@ main:
     url: /University/
   - title: "Khatere"
     url: /Khatere/
-  - title: "CV"
-    url: /cv/
   - title: "Courses"
     url: /courses/
   - title: "Friends"
