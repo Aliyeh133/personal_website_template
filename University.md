@@ -14,4 +14,4 @@ comments: true
 | Physics | Comp | Industry | Comp |
 | English | Comp WS | Physics | Comp WS |
 | Literature | Mathematics | English | Mathematics |
-| ---------- | ----------- | ------- | Literature |
+|            |             |         | Literature |
