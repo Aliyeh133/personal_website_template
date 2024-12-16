@@ -11,8 +11,7 @@ comments: true
 | **The Chart of Week** |
 | Sat | Sun | Mon | Tue |
 | --- | --- | --- | --- |
-| Physics | Comp | Industry | Comp WS |
-| English | Comp WS | Physics | Comp |
+| Physics | Comp | Industry | Comp |
+| English | Comp WS | Physics | Comp WS |
 | Literature | Mathematics | English | Mathematics |
-| Literature |
-
+| ---------- | ----------- | ------- | Literature |
