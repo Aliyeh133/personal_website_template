@@ -8,14 +8,11 @@ modified: 11-11-2024
 comments: true
 ---
 
-| **چارت درسی دانشگاه**   |
-|  شنبه   |   یکشنبه   |   دوشنبه   |   سه شنبه    |
-| ----------- | ------- -- | ----------- | --------- |
-|فیزیک | مبانی   |آشنایی با صنعت |      کارگاه    |
-| زبان |   کارگاه |         فیزیک |      مبانی     |
-| فارسی |    ریاضی |          زبان |      ریاضی    |
-| ------     | ------         | -----     | فارسی    |
-
-
-
+| **The Chart of Week** |
+| Sat | Sun | Mon | Tue |
+| --- | --- | --- | --- |
+| Physics | Comp | Industry | Comp WS |
+| English | Comp WS | Physics | Comp |
+| Literature | Mathematics | English | Mathematics |
+| Literature |
 

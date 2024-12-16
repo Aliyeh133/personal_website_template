@@ -9,6 +9,8 @@ comments: true
 ---
 
 # First Day In IUST
-it was good
+It was good and interesting.
+We visited different places at university.
+
 
 
