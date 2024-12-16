@@ -9,7 +9,7 @@ comments: false
 ---
 
 
-* [Watch Movie](http://www.bjjheros.com/)
-* [Read Book]()
+* [Watch Movie](https://digimoviez.com/)
+* [Read Book](https://fidibo.com/)
 
 
