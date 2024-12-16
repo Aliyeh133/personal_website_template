@@ -19,7 +19,7 @@ minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark"
 locale                   : "en-US" 
 title                    : "Alie Banikhazaei"
 title_separator          : "-"
-name                     : "Poorang" 
+name                     : "a.b" 
 description              : "welcome to my website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
@@ -112,8 +112,6 @@ author:
   bio              : "hello world"
   location         : "تهران"
   email            : aliebanikhazaei@gmail.com
-  twitter:
-  linkedin: 
   google_scholar: Q25s5KkAAAAJ
   github: Alieyh133
   instagram: alie.banikhazaei
