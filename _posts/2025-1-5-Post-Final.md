@@ -4,6 +4,8 @@ title: Table
 ---
 
 | **Table** |
-| نام | نام خانوادگی |
-| ------------- | ----|
-| بنی خزاعی | عالیه |
+| FirstName | LastName |
+| --------- | -------- |
+| Aliyeh    | Banikhazaei |
+
+![picture](assets/images/screen.jpg)
