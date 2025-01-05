@@ -11,7 +11,7 @@ comments: false
 
 ![My Exam Day](assets/images/screen.png)
 
-* [sample item 1](fccourse.liara.run)
+* [sample item 1](https://fccourse.liara.run)
 * sample item 2
 
 
