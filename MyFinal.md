@@ -9,5 +9,5 @@ comments: false
 
 # Exam day shots
 
-[](/assets/images/screen.jpg)
+![My Exam Day](assets/images/screen.jpg)
 
