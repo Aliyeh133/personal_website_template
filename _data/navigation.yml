@@ -14,7 +14,7 @@ main:
     url: /gallery/
   - title: "Blog"
     url: /blog/
-  - title: "MyFinal"
+  # - title: "MyFinal"
     url: /MyFinal/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
